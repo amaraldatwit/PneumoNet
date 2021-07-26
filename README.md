@@ -36,7 +36,9 @@ To refine your accuracy of the model to make the best prediction and minimize er
 #### Setting up ENV
 
 Update Pip
-		> pip install --upgrade pip		
+
+		> pip install --upgrade pip	
+		
 Installing the libraries needed
 
 		> pip install numpy
@@ -50,8 +52,16 @@ Installing the libraries needed
 ### [Link]
 
 ### Team Members
-* Name 
-* Name
-* Name
+* Dominic Amaral
+* Leon Chen
+* Robert Martini
+
+### References used
+Optimal Threshold for Precision-Recall Curve
+- https://www.tensorflow.org/tutorials/structured_data/imbalanced_data 
+- https://machinelearningmastery.com/threshold-moving-for-imbalanced-classification/ 
+- https://keras.io/api/metrics/classification_metrics/ 
+
+
 
 ## Credit
