@@ -54,7 +54,7 @@ Open the command prompt or the Anaconda ENV cmd and run each line
 
 		> conda install -c conda-forge scikit-learn
 		
-Installing [TensorFlow](https://www.tensorflow.org/install/pip#system-install)
+4. Installing [TensorFlow](https://www.tensorflow.org/install/pip#system-install)
 
 #### Running the Notebook
 
