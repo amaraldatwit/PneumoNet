@@ -27,13 +27,13 @@ To refine your accuracy of the model to make the best prediction and minimize er
 ### Colab (much less work)
 
 
-### A lot more work
+#### Windows Locally (A lot more work)
 
-### Installation and Setup
+#### Installation and Setup
 
-#### Installing Anaconda
+##### Installing Anaconda
 
-#### Setting up ENV
+##### Setting up ENV
 
 1. Install [Anaconda](https://www.anaconda.com/products/individual)
 
