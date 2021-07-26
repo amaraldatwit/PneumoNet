@@ -1,5 +1,6 @@
 # PneumoNet
 ## Link to Notebook (Maybe?)
+- Needs Work
 
 ## Introduction
 ### Abstract
@@ -26,6 +27,7 @@ To refine your accuracy of the model to make the best prediction and minimize er
 
 ### Colab (much less work)
 
+- Needs Work
 
 #### Windows Locally (A lot more work)
 
@@ -59,8 +61,11 @@ Open the command prompt or the Anaconda ENV cmd and run each line
 
 #### Running the Notebook
 
+- Needs WOrk
+
 ## Video
 ### [Link]
+- Needs work
 
 ### Team Members
 * Dominic Amaral
@@ -75,3 +80,4 @@ Optimal Threshold for Precision-Recall Curve
 
 
 ## Credit
+- Needs Work
