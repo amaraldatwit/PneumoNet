@@ -31,8 +31,6 @@ To refine your accuracy of the model to make the best prediction and minimize er
 
 ### Windows Locally (A lot more work)
 
-#### Installation and Setup
-
 ##### Installing Anaconda
 
 ##### Setting up ENV
