@@ -37,18 +37,26 @@ To refine your accuracy of the model to make the best prediction and minimize er
 
 1. Install [Anaconda](https://www.anaconda.com/products/individual)
 
-2. Update Pip
+2. Update Pip (Windows)
+Open the command prompt or the Anaconda ENV cmd and run each line
 
 		> pip install --upgrade pip	
 		
-3. Installing the libraries needed
+3. Installing the libraries needed (Windows)
 Open the command prompt or the Anaconda ENV cmd and run each line
 
 		> pip install numpy
 		> pip install pandas
-		> pip install tens
+		
+		> pip install pip install -U scikit-learn
+		
+For conda run 
+	
+		> conda install -c conda-forge scikit-learn
 		> pip install
-    
+
+Installing [TensorFlow](https://www.tensorflow.org/install/pip#system-install)
+
 #### Running the Notebook
 
 ## Video
@@ -64,7 +72,6 @@ Optimal Threshold for Precision-Recall Curve
 - https://www.tensorflow.org/tutorials/structured_data/imbalanced_data 
 - https://machinelearningmastery.com/threshold-moving-for-imbalanced-classification/ 
 - https://keras.io/api/metrics/classification_metrics/ 
-
 
 
 ## Credit
