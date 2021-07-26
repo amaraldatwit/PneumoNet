@@ -35,11 +35,14 @@ To refine your accuracy of the model to make the best prediction and minimize er
 
 #### Setting up ENV
 
-Update Pip
+1. Install [Anaconda](https://www.anaconda.com/products/individual)
+
+2. Update Pip
 
 		> pip install --upgrade pip	
 		
-Installing the libraries needed
+3. Installing the libraries needed
+Open the command prompt or the Anaconda ENV cmd and run each line
 
 		> pip install numpy
 		> pip install pandas
