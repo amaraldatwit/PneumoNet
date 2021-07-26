@@ -47,6 +47,7 @@ Open the command prompt or the Anaconda ENV cmd and run each line
 
 		> pip install numpy
 		> pip install pandas
+		> pip install matplotlib
 		
 		> pip install pip install -U scikit-learn
 		
