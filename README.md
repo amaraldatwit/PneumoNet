@@ -50,7 +50,7 @@ Open the command prompt or the Anaconda ENV cmd and run each line
 		
 		> pip install pip install -U scikit-learn
 		
-For conda run 
+	For conda run 
 
 		> conda install -c conda-forge scikit-learn
 		
