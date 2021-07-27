@@ -35,7 +35,10 @@ To refine your accuracy of the model to make the best prediction and minimize er
 
 ##### Setting up ENV
 
-1. Install [Anaconda](https://www.anaconda.com/products/individual)
+### List of PreReqs
+* Anaconda
+* 
+
 
 2. Update Pip (Windows)
 Open the command prompt or the Anaconda ENV cmd and run each line
@@ -45,10 +48,7 @@ Open the command prompt or the Anaconda ENV cmd and run each line
 3. Installing the libraries needed (Windows)
 Open the command prompt or the Anaconda ENV cmd and run each line
 
-		> pip install numpy
-		> pip install pandas
 		> pip install matplotlib
-		
 		> pip install pip install -U scikit-learn
 		
 	For conda run 
@@ -59,7 +59,7 @@ Open the command prompt or the Anaconda ENV cmd and run each line
 
 #### Running the Notebook
 
-- Needs WOrk
+- Needs Work
 
 ## Video
 ### [Link]
