@@ -27,7 +27,9 @@ To refine your accuracy of the model to make the best prediction and minimize er
 
 https://drive.google.com/drive/folders/1uqx1NEY0vrAONnxZPSGbKKDEKiOZEddw?usp=sharing
 
+First right click in the project `PneumoNet-main` and select `Add Short cut to Drive`
 
+After you are all set to run the notebook!
 
 **NOTE: When importing the image make sure the correct path is set to the folder**
 
