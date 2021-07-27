@@ -49,6 +49,10 @@ For conda run
 		> conda create -n tf tensorflow
 		> conda activate tf
 
+Should be all set to run the notebook
+
+**NOTE: When importing the image make sure the correct path is set to the folder**
+
 ## Video
 ### [Link]
 - Needs work
