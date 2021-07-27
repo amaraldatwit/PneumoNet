@@ -25,16 +25,14 @@ To refine your accuracy of the model to make the best prediction and minimize er
 
 ## Getting Started 
 
-### Colab (much less work)
+### Colab 
 
 - Needs Work
 
-### Windows Locally (A lot more work)
+### Windows Locally
 
-
-
-##### Setting up ENV
 ### List of PreReqs	
+
 Installing the libraries needed (Windows)
 Open the command prompt or the Anaconda ENV cmd and run each line
 
