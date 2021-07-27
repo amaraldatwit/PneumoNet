@@ -38,7 +38,7 @@ Open the command prompt or the Anaconda ENV cmd and run each line
 
 		> pip install --upgrade pip	
 		> pip install matplotlib
-		> pip install PIL
+		> pip install pillow
 		
 		> pip install tensorflow
 		
@@ -46,7 +46,7 @@ For conda run
 
 		> conda update conda
 		> conda install -c conda-forge matplotlib
-		> conda install -c conda-forge PIL
+		> conda install -c conda-forge pillow
 		
 		> conda create -n tf tensorflow
 		> conda activate tf
@@ -71,6 +71,8 @@ Optimal Threshold for Precision-Recall Curve
 - https://machinelearningmastery.com/threshold-moving-for-imbalanced-classification/ 
 - https://keras.io/api/metrics/classification_metrics/ 
 
+- https://www.tensorflow.org/api_docs
+- https://keras.io/
 
 ## Credit
 - Needs Work
