@@ -25,7 +25,7 @@ To refine your accuracy of the model to make the best prediction and minimize er
 
 ### Colab 
 
-- Needs Work
+https://drive.google.com/drive/folders/1uqx1NEY0vrAONnxZPSGbKKDEKiOZEddw?usp=sharing
 
 ### Windows Locally
 
