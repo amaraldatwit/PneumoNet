@@ -27,29 +27,7 @@ To refine your accuracy of the model to make the best prediction and minimize er
 
 https://drive.google.com/drive/folders/1uqx1NEY0vrAONnxZPSGbKKDEKiOZEddw?usp=sharing
 
-### Windows Locally
 
-#### List of PreReqs	
-
-Installing the libraries needed (Windows)
-Open the command prompt or the Anaconda ENV cmd and run each line
-
-		> pip install --upgrade pip	
-		> pip install matplotlib
-		> pip install pillow
-		
-		> python3 -m pip install --upgrade https://storage.googleapis.com/tensorflow/mac/cpu/tensorflow-1.12.0-py3-none-any.whl
-		
-For conda run 
-
-		> conda update conda
-		> conda install -c conda-forge matplotlib
-		> conda install -c conda-forge pillow
-		
-		> conda create -n tf tensorflow
-		> conda activate tf
-
-Should be all set to run the notebook
 
 **NOTE: When importing the image make sure the correct path is set to the folder**
 
