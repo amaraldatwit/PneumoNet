@@ -54,12 +54,12 @@ For conda run
 ### [Link]
 - Needs work
 
-### Team Members
+## Team Members
 * Dominic Amaral
 * Leon Chen
 * Robert Martini
 
-### References used
+## References used
 Optimal Threshold for Precision-Recall Curve
 - https://www.tensorflow.org/tutorials/structured_data/imbalanced_data 
 - https://machinelearningmastery.com/threshold-moving-for-imbalanced-classification/ 
