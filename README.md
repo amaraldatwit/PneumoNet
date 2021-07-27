@@ -1,6 +1,4 @@
 # PneumoNet
-## Link to Notebook (Maybe?)
-- Needs Work
 
 ## Introduction
 ### Abstract
@@ -31,7 +29,7 @@ To refine your accuracy of the model to make the best prediction and minimize er
 
 ### Windows Locally
 
-### List of PreReqs	
+#### List of PreReqs	
 
 Installing the libraries needed (Windows)
 Open the command prompt or the Anaconda ENV cmd and run each line
@@ -51,10 +49,6 @@ For conda run
 		> conda create -n tf tensorflow
 		> conda activate tf
 		
-
-#### Running the Notebook
-
-- Needs Work
 
 ## Video
 ### [Link]
