@@ -40,7 +40,7 @@ Open the command prompt or the Anaconda ENV cmd and run each line
 
 		> pip install --upgrade pip	
 		> pip install matplotlib
-		> pip install pip install -U scikit-learn
+		> pip install PIL
 		
 		> pip install tensorflow
 		
@@ -48,7 +48,7 @@ For conda run
 
 		> conda update conda
 		> conda install -c conda-forge matplotlib
-		> conda install -c conda-forge scikit-learn
+		> conda install -c conda-forge PIL
 		
 		> conda create -n tf tensorflow
 		> conda activate tf
