@@ -45,7 +45,7 @@ Open the command prompt or the Anaconda ENV cmd and run each line
 		> pip install --upgrade pip
 		> pip install tensorflow
 		
-	For conda run 
+For conda run 
 
 		> conda update conda
 		> conda install -c conda-forge matplotlib
