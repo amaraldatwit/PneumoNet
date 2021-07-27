@@ -38,7 +38,7 @@ Open the command prompt or the Anaconda ENV cmd and run each line
 		> pip install matplotlib
 		> pip install pillow
 		
-		> pip install tensorflow
+		> python3 -m pip install --upgrade https://storage.googleapis.com/tensorflow/mac/cpu/tensorflow-1.12.0-py3-none-any.whl
 		
 For conda run 
 
