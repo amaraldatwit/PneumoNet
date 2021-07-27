@@ -31,31 +31,29 @@ To refine your accuracy of the model to make the best prediction and minimize er
 
 ### Windows Locally (A lot more work)
 
-##### Installing Anaconda
+
 
 ##### Setting up ENV
-
-### List of PreReqs
-* Anaconda
-* 
-
-
-2. Update Pip (Windows)
+### List of PreReqs	
+Installing the libraries needed (Windows)
 Open the command prompt or the Anaconda ENV cmd and run each line
 
 		> pip install --upgrade pip	
-		
-3. Installing the libraries needed (Windows)
-Open the command prompt or the Anaconda ENV cmd and run each line
-
 		> pip install matplotlib
 		> pip install pip install -U scikit-learn
 		
+		> pip install --upgrade pip
+		> pip install tensorflow
+		
 	For conda run 
 
+		> conda update conda
+		> conda install -c conda-forge matplotlib
 		> conda install -c conda-forge scikit-learn
 		
-4. Installing [TensorFlow](https://www.tensorflow.org/install/pip#system-install)
+		> conda create -n tf tensorflow
+		> conda activate tf
+		
 
 #### Running the Notebook
 
