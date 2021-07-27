@@ -31,8 +31,6 @@ First right click in the project `PneumoNet-main` and select `Add Short cut to D
 
 After you are all set to run the notebook!
 
-**NOTE: When importing the image make sure the correct path is set to the folder**
-
 ## Video
 ### [Link]
 - Needs work
