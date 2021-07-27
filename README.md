@@ -48,7 +48,6 @@ For conda run
 		
 		> conda create -n tf tensorflow
 		> conda activate tf
-		
 
 ## Video
 ### [Link]
