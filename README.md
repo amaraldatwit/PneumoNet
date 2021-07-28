@@ -29,7 +29,7 @@ First right click in the project `PneumoNet-main` and select `Add Short cut to D
 After you are all set to run the notebook!
 
 ## Video
-### [Link](https://youtu.be/Jzx8tAIDILk)
+### [Link](https://youtu.be/IEHWXPrZHlo)
 
 
 ## Team Members
