@@ -33,7 +33,7 @@ After you are all set to run the notebook!
 
 
 ## Team Members
-* Dominic Amaral
+* Dominic Amaral (amaraldaf@gmail.com)
 * Leon Chen
 * Robert Martini
 
@@ -47,4 +47,4 @@ Optimal Threshold for Precision-Recall Curve
 - https://keras.io/
 
 ## Credit
-- Professor Memo
+- Prof. Mehmet Ergezer, PhD 
